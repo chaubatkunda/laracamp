@@ -12,7 +12,7 @@ php 7.3|^8.0
 Download atau clone project dari github:
 
 ```sh
-git clone
+git clone https://github.com/chaubatkunda/laracamp
 ```
 
 ```sh
